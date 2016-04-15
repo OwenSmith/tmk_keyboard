@@ -26,7 +26,7 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  *  |CTL|ALT|  Z|  X|  C|  V|  B|  M|
  *  +-------------------------------+
  *  |Fn3|Fn2|Fn1|SPC|Fn0| (Thumbs)
- *  |   |   |   |   |   | (not connected)
+ *  |   |   |   |   |   | (NotConnected)
  *  +-------------------+
      */
     KEYMAP(
@@ -46,7 +46,7 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  *  |CTL|ALT|   |   |   |   |   |   |
  *  +-------------------------------+
  *  |Fn3|Fn2|Fn1|Spc|Fn0| (Thumbs)
- *  |   |   |   |   |   | (not connected)
+ *  |   |   |   |   |   | (NotConnected)
  *  +-------------------+
      */
     KEYMAP(
@@ -66,7 +66,7 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  *  |CTL|ALT|WHL|   |WHR|   |   |   |
  *  +-------------------------------+
  *  |Fn3|Fn2|Fn1|Spc|Fn0| (Thumbs)
- *  |   |   |   |   |   | (not connected)
+ *  |   |   |   |   |   | (NotConnected)
  *  +-------------------+
      */
     KEYMAP(
